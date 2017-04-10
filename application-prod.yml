@@ -1,2 +1,2 @@
 env: production
-common-var: "common var from prod application"
+common-var: common var from prod application
