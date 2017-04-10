@@ -1,2 +1,2 @@
 account: 2
-com.client.foo: foo only in prod
+com.client.foo: foo only in dev
